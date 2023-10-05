@@ -1,0 +1,161 @@
+/* Main page below*/
+html, body{
+  height: 100%;
+}
+
+.main{
+  background-image: url(./imgs/trucking-industry-delivers-freight-on-multiple-lane-highways-at-sunset-generated-by-ai-free-photo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+ 
+}
+
+p{
+  margin-top: 0;
+  font-weight: bold;
+}
+
+.title{
+  text-align: center;
+  border: 5px solid orange;
+  background-color: lightgray;
+}
+
+.description { 
+    color: rgb(15, 15, 15);
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+    }
+
+.links1 {
+    color: #ee9322;
+    text-align: center;
+    margin-left:right;
+    font-size: 20px;
+    border: 3px solid black;
+    background-color: black;
+  }
+
+  a:hover {
+    color: red;
+  }
+
+  a:visited {
+    color: blue;
+  }
+
+  
+  /* Main page end*/
+
+  /* DOT Cameras per state page below*/
+  #title {
+    text-align: center;
+    background-color: #6A9C89;
+    padding: 1px;
+    margin: 0;
+    padding: auto;
+    color: #B2533E;
+    border: 4px solid #B2533E;
+    border-bottom: none;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+  }
+
+  .subtitle{
+    color: #B2533E;
+    background-color: #6A9C89;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Avant Garde,Avantgarde,Century Gothic,CenturyGothic,AppleGothic,sans-serif;
+  }
+
+  .links2, .pages2 {
+    text-align: center;
+    margin-top: 0;
+    background-color: #6A9C89;
+    color: #C1D8C3;
+    font-size: 19px;
+    font-weight: bold;
+  }
+ 
+  .pagelinks{
+    background-color: #6A9C89;
+    border: 4px solid #B2533E;
+    margin-top: 0;
+    border-top: none;
+  }
+
+  .dotpage {
+    background-color: #FCE09B;
+    background-image: url(f);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    object-fit: cover;
+  }
+
+  #states {
+    columns: 2;
+    
+  }
+  
+  
+
+  .cams{
+    color: blue;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+  }
+
+  /* DOT Cameras per state page end*/
+
+  /*Different Maps & GPS page start*/
+ #gps-page{
+  background-color: #6A9C89;
+  text-align: center;
+ }
+  .types-gps {
+  text-align: center;
+  color: #CD5C08;
+ }
+
+ .header{
+  background-color: #C1D8C3;
+  border-color: black;
+  border: 6px solid #F5E8B7;
+  width: auto;
+  height: 20%;
+ }
+
+ .section-maps, .section-gps{
+  text-align: center;
+  color: #C1D8C3;
+  font-weight: bolder;
+  font-family: Copperplate,Copperplate Gothic Light;
+ }
+.gps {
+  text-align: center;
+}
+
+.gps-links{
+  text-align: center;
+  list-style-type: none;
+}
+
+a.page3 {
+  color: #CD5C08;
+}
+
+.links2{
+  background-color: #F5E8B7;
+}
+a.map3, a.handheld{
+  color: #F5E8B7;
+  font-weight: bolder;
+  font-family: TimesNewRoman,Times New Roman,Times,Baskerville,Georgia,serif;
+}
+  /*Different Maps page end*/
